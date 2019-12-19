@@ -1,0 +1,88 @@
+{
+    "name": "DigiCert",
+    "description": "SSL certificates by DigiCert secure unlimited servers with the strongest encryption and highest authentication available.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19949-digicert.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "encryption",
+        "have api",
+        "security",
+        "ssl"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/digicert\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "DigiCert",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19949-digicert.jpg",
+            "humanURL": "https:\/\/www.digicert.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/digicert-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/digicert-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/blog.digicert.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/digicert"
+        },
+        {
+            "type": "Email",
+            "url": "support@digicert.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@digicert.com"
+        },
+        {
+            "type": "Email",
+            "url": "1.801.701.9685sales@digicert.com"
+        },
+        {
+            "type": "Email",
+            "url": "1.801.701.9690enterprise@digicert.com"
+        },
+        {
+            "type": "Email",
+            "url": "1.801.701.9695iot@digicert.com"
+        },
+        {
+            "type": "Email",
+            "url": "1.801.701.9686partners@digicert.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal@digicert.com"
+        },
+        {
+            "type": "Partners",
+            "url": "https:\/\/www.digicert.com\/digital-certificate-reseller-program.htm"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/digicert"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.digicert.com"
+        }
+    ]
+}
